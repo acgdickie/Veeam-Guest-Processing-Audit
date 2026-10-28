@@ -1,0 +1,5 @@
+# Script output and saved sign-ins. These can hold server, job and VM names.
+*.csv
+*.log
+*.xml
+*.cred*
