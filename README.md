@@ -96,6 +96,10 @@ Also read the warnings on the screen. They tell you when part of the inventory c
 - CDP policies and backup copy jobs are not checked. The script tells you about them.
 - Check a few VMs in the Veeam console the first time you run it.
 
+## Licence
+
+MIT. See [LICENSE](LICENSE).
+
 ## Disclaimer
 
 Use this script at your own risk. Test it before you use it on a production server. This script is not made or supported by Veeam.
